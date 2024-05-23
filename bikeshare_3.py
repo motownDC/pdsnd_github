@@ -24,7 +24,7 @@ def get_filters():
             print("Chicago! The Windy City! Let's See What's Next")
             break
         if city == 'new york city':
-            print("NYC! The City That Never Sleeps! Let's See What's Next")
+            print("NYC! The Empire State! Let's See What's Next")
             break
         if city == 'new york city':
             print("Washington! The Nation's Capitol! Let's See What's Next")
