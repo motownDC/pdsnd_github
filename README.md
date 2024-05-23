@@ -1,17 +1,34 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# My Udacity Bikeshare Project
 
-### Date created
-Include the date you created this project and README file.
+These files include the code I wrote for my Udacity Ptyhon coding project
 
-### Project Title
-Replace the Project Title
+## Scope
 
-### Description
-Describe what your project is about and what it does
+Create script to analyze bikeshare data from
 
-### Files used
-Include the files used
+* _Chicago_
+* _New York City_
+* _Washington, DC_
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Running the Program
 
+* I used Anaconda's Powershell prompt to run the files
+* Inputing **python bikeshare__3.py** in the Powershell prompt ran the scripts
+* You will be prompted to pick a city to retrieve data from
+* The data can be sliced by month and day and returns data such as:
+    * Total trip duration
+    * Gender of riders (if available)
+    * Youngest/Oldest riders (if available)
+    * Most Popular Start/End Stations
+
+After seeing the data, you can restart and look at another city
+
+## Notes
+
+* Bikeshare data provided by Udacity
+* CSV files not included in my github upload
+* For some reason, could not get scripts to run in Git Bash which is why I used Powershell
+* I used the following tools for the project
+    * Python 3.9
+    * Anaconda Navigator (for pandas and numpy)
+    * Visual Stuio Code 
