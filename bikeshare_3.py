@@ -27,7 +27,7 @@ def get_filters():
             print("NYC! The Empire State! Let's See What's Next")
             break
         if city == 'new york city':
-            print("Washington! The Nation's Capitol! Let's See What's Next")
+            print("Washington! USA! USA! USA! Let's See What's Next")
             break
         else:
             print("Looks Like You're a Bad Speller Too. Please Try Again.")
