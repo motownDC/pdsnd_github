@@ -30,7 +30,7 @@ def get_filters():
             print("Washington! The Nation's Capitol! Let's See What's Next")
             break
         else:
-            print("Looks Like You're a Bad Speller Too. Please Try Again.")
+            print("Looks Like You're a Bad Speller Too. Please Check Spelling and Try Again.")
 
     
    
