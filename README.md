@@ -2,7 +2,7 @@
 
 These files include the code I wrote for my Udacity Ptyhon coding project
 
-## Scope
+## Scope of Project
 
 Create script to analyze bikeshare data from
 
